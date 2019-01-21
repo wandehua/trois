@@ -14,4 +14,7 @@ class Loader {
     public function index(){
         echo 'hello';
     }
+    public function lists(){
+        echo 'lists';
+    }
 }
